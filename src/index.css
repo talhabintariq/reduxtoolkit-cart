@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Merienda One", "cursive";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(104, 100, 100) ;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

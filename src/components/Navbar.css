@@ -1,0 +1,28 @@
+.navbar{
+    height: 60px ;
+    background-color: #fff ;
+}
+.menus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    
+
+}
+img{
+    height: 35px;
+}
+
+p{
+    margin: 10px 10px;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: magenta;
+
+}
+.Link{
+    color: inherit;
+    text-decoration: inherit;
+}

@@ -1,0 +1,10 @@
+
+
+.home__row{
+    
+    display: flex;
+    justify-content: center;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
